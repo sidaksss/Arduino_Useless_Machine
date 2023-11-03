@@ -1,5 +1,5 @@
 # Take a Treat Useless Machine
-Süßigkeit Automat der Kein Süßigkeiten ausgibst.
+
 1. Ein zufällige Reihenfolge von Klötzen wird generiert.
 2. Der Nutzer muss die Klötzen in gezeigten Reihenfolge (auf dem LCD Display) in den Löchern werfen, die richtige Reihenfolgen wird durch IR Sensoren überwacht.
 3. Beim richtigen Einwerfen geht die Klappe zum Süßigkeit auf (Servo Motor).
