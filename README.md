@@ -1,4 +1,5 @@
 # Take a Treat Useless Machine
+Dieses Projekt würde als Teil der Modul ‚Mensch Maschine Schnittstelle‘ im 4.Semester gemacht
 
 1. Ein zufällige Reihenfolge von Klötzen wird generiert.
 2. Der Nutzer muss die Klötzen in gezeigten Reihenfolge (auf dem LCD Display) in den Löchern werfen, die richtige Reihenfolgen wird durch IR Sensoren überwacht.
